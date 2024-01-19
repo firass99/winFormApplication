@@ -1,0 +1,40 @@
+C:\Users\WINDOWS 10\source\repos\CreateReadUpdateDeleteProject\CreateReadUpdateDeleteProject\bin\Debug\CreateReadUpdateDeleteProject.exe.config
+C:\Users\WINDOWS 10\source\repos\CreateReadUpdateDeleteProject\CreateReadUpdateDeleteProject\bin\Debug\CreateReadUpdateDeleteProject.exe
+C:\Users\WINDOWS 10\source\repos\CreateReadUpdateDeleteProject\CreateReadUpdateDeleteProject\bin\Debug\CreateReadUpdateDeleteProject.pdb
+C:\Users\WINDOWS 10\source\repos\CreateReadUpdateDeleteProject\CreateReadUpdateDeleteProject\obj\Debug\CreateReadUpdateDeleteProject.Form1.resources
+C:\Users\WINDOWS 10\source\repos\CreateReadUpdateDeleteProject\CreateReadUpdateDeleteProject\obj\Debug\CreateReadUpdateDeleteProject.Properties.Resources.resources
+C:\Users\WINDOWS 10\source\repos\CreateReadUpdateDeleteProject\CreateReadUpdateDeleteProject\obj\Debug\CreateReadUpdateDeleteProject.csproj.GenerateResource.cache
+C:\Users\WINDOWS 10\source\repos\CreateReadUpdateDeleteProject\CreateReadUpdateDeleteProject\obj\Debug\CreateReadUpdateDeleteProject.csproj.CoreCompileInputs.cache
+C:\Users\WINDOWS 10\source\repos\CreateReadUpdateDeleteProject\CreateReadUpdateDeleteProject\obj\Debug\CreateReadUpdateDeleteProject.exe
+C:\Users\WINDOWS 10\source\repos\CreateReadUpdateDeleteProject\CreateReadUpdateDeleteProject\obj\Debug\CreateReadUpdateDeleteProject.pdb
+C:\Users\Mega-PC\Desktop\CRUD-using-CSharp-main\CreateReadUpdateDeleteProject\CreateReadUpdateDeleteProject\bin\Debug\CreateReadUpdateDeleteProject.exe.config
+C:\Users\Mega-PC\Desktop\CRUD-using-CSharp-main\CreateReadUpdateDeleteProject\CreateReadUpdateDeleteProject\bin\Debug\CreateReadUpdateDeleteProject.exe
+C:\Users\Mega-PC\Desktop\CRUD-using-CSharp-main\CreateReadUpdateDeleteProject\CreateReadUpdateDeleteProject\bin\Debug\CreateReadUpdateDeleteProject.pdb
+C:\Users\Mega-PC\Desktop\CRUD-using-CSharp-main\CreateReadUpdateDeleteProject\CreateReadUpdateDeleteProject\obj\Debug\CreateReadUpdateDeleteProject.csproj.AssemblyReference.cache
+C:\Users\Mega-PC\Desktop\CRUD-using-CSharp-main\CreateReadUpdateDeleteProject\CreateReadUpdateDeleteProject\obj\Debug\CreateReadUpdateDeleteProject.Form1.resources
+C:\Users\Mega-PC\Desktop\CRUD-using-CSharp-main\CreateReadUpdateDeleteProject\CreateReadUpdateDeleteProject\obj\Debug\CreateReadUpdateDeleteProject.Properties.Resources.resources
+C:\Users\Mega-PC\Desktop\CRUD-using-CSharp-main\CreateReadUpdateDeleteProject\CreateReadUpdateDeleteProject\obj\Debug\CreateReadUpdateDeleteProject.csproj.GenerateResource.cache
+C:\Users\Mega-PC\Desktop\CRUD-using-CSharp-main\CreateReadUpdateDeleteProject\CreateReadUpdateDeleteProject\obj\Debug\CreateReadUpdateDeleteProject.csproj.CoreCompileInputs.cache
+C:\Users\Mega-PC\Desktop\CRUD-using-CSharp-main\CreateReadUpdateDeleteProject\CreateReadUpdateDeleteProject\obj\Debug\CreateReadUpdateDeleteProject.exe
+C:\Users\Mega-PC\Desktop\CRUD-using-CSharp-main\CreateReadUpdateDeleteProject\CreateReadUpdateDeleteProject\obj\Debug\CreateReadUpdateDeleteProject.pdb
+C:\visualStudioWorkspace\winapp\CreateReadUpdateDeleteProject\bin\Debug\EntityFramework.dll
+C:\visualStudioWorkspace\winapp\CreateReadUpdateDeleteProject\bin\Debug\EntityFramework.SqlServer.dll
+C:\visualStudioWorkspace\winapp\CreateReadUpdateDeleteProject\bin\Debug\System.Data.SQLite.dll
+C:\visualStudioWorkspace\winapp\CreateReadUpdateDeleteProject\bin\Debug\System.Data.SQLite.EF6.dll
+C:\visualStudioWorkspace\winapp\CreateReadUpdateDeleteProject\bin\Debug\System.Data.SQLite.Linq.dll
+C:\visualStudioWorkspace\winapp\CreateReadUpdateDeleteProject\bin\Debug\EntityFramework.xml
+C:\visualStudioWorkspace\winapp\CreateReadUpdateDeleteProject\bin\Debug\EntityFramework.SqlServer.xml
+C:\visualStudioWorkspace\winapp\CreateReadUpdateDeleteProject\bin\Debug\System.Data.SQLite.xml
+C:\visualStudioWorkspace\winapp\CreateReadUpdateDeleteProject\obj\Debug\CreateReadUpdateDeleteProject.csproj.AssemblyReference.cache
+C:\visualStudioWorkspace\winapp\CreateReadUpdateDeleteProject\obj\Debug\CreateReadUpdateDeleteProject.csproj.GenerateResource.cache
+C:\visualStudioWorkspace\winapp\CreateReadUpdateDeleteProject\obj\Debug\CreateReadUpdateDeleteProject.csproj.CoreCompileInputs.cache
+C:\visualStudioWorkspace\winapp\CreateReadUpdateDeleteProject\obj\Debug\CreateReadUpdateDeleteProject.csproj.CopyComplete
+C:\visualStudioWorkspace\winapp\CreateReadUpdateDeleteProject\bin\Debug\CreateReadUpdateDelete.exe.config
+C:\visualStudioWorkspace\winapp\CreateReadUpdateDeleteProject\bin\Debug\CreateReadUpdateDelete.exe
+C:\visualStudioWorkspace\winapp\CreateReadUpdateDeleteProject\bin\Debug\CreateReadUpdateDelete.pdb
+C:\visualStudioWorkspace\winapp\CreateReadUpdateDeleteProject\obj\Debug\CreateReadUpdateDelete.Form1.resources
+C:\visualStudioWorkspace\winapp\CreateReadUpdateDeleteProject\obj\Debug\CreateReadUpdateDelete.Properties.Resources.resources
+C:\visualStudioWorkspace\winapp\CreateReadUpdateDeleteProject\obj\Debug\CreateReadUpdateDelete.exe
+C:\visualStudioWorkspace\winapp\CreateReadUpdateDeleteProject\obj\Debug\CreateReadUpdateDelete.pdb
+C:\visualStudioWorkspace\winapp\CreateReadUpdateDeleteProject\bin\Debug\winapp.mdf
+C:\visualStudioWorkspace\winapp\CreateReadUpdateDeleteProject\bin\Debug\winapp_log.ldf
